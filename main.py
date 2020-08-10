@@ -12,6 +12,6 @@ if __name__ == "__main__":
 
     # cok_wiss cokkie
     # lista_de_cirsos.txt archivo de salida
-    coursesofuser.get_cookie_to_file('cok_wiss.txt',"lista_de_cursos.txt")
+    coursesofuser.get_cookie_to_file('cok_tetisan.txt',"lista_de_cursos_tetisan.txt")
     
 
